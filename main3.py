@@ -18,8 +18,8 @@ layer_names = [layer_names[i - 1] for i in net.getUnconnectedOutLayers()]
 dangerous_items = ["knife", "fire", "scissors", "gun", "fork", "broken glass"]
 
 # بيانات التليجرام
-bot_token = "7796257205:AAHHhb-Tr74c9-7GRXYcUnOfj_QyEseoWYk"
-chat_id = "1125122304"
+bot_token = "YOUR-TOKEN"
+chat_id = "YOUR-ID"
 
 # إرسال رسالة إلى التليجرام
 def send_telegram_message(message):

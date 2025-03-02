@@ -1,7 +1,4 @@
 
-# bot_token = "7796257205:AAHHhb-Tr74c9-7GRXYcUnOfj_QyEseoWYk"
-# chat_id = "1125122304"
-
 import cv2
 import numpy as np
 import requests
